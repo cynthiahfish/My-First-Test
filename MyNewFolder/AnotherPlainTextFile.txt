@@ -1,0 +1,1 @@
+This is another plain text file in a subfolder of the project.
