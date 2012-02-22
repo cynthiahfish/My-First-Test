@@ -1,2 +1,3 @@
 some stuff
  in my new text doc
+I have just added this line
