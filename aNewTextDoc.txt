@@ -1,5 +1,4 @@
-some stuff
- in my new text doc
+some stuff in my new text doc
 I have just added this line
 a change here
 made a change on WIndows 7 machine
